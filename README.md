@@ -17,10 +17,10 @@ Here, you’ll find my projects and assignments showcasing my skills in ERP syst
   Former Application Development Associate at Accenture, specializing in Oracle E-Business Suite and ERP implementations.  
 
 - 📊 **Skills**  
-  - **ERP Systems:** SAP S/4HANA, Oracle Apps  
+  - **ERP Systems:** SAP S/4HANA, SAP Fiori, SAP Easy Access(Academic Version), Oracle Apps, Oracle E-Business Suite 
   - **Programming:** Python, SQL, C, C++  
-  - **Data Tools:** Tableau, SAP Business Objects, Advanced Excel  
-  - **Database Management:** SQL, MySQL  
+  - **Data Tools:** Tableau, Advanced Excel  
+  - **Database Management:** SQL, MySQL, MS Access  
 
 
 ## 📫 Connect with Me
