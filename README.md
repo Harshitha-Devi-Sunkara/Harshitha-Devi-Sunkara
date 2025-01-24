@@ -3,14 +3,14 @@
 ### 🌟 Aspiring Business Intelligence Analyst | ERP Enthusiast 
 
 Welcome to my GitHub profile! I’m passionate about leveraging technology to optimize business processes and make data-driven decisions. 
-Here, you’ll find my projects and assignments showcasing my skills in ERP systems and data analysis.
+Here, you’ll find my projects and assignments showcasing my skills in data analysis and ERP systems .
 
 ---
 
 ## 🔍 About Me
 
 - 🎓 **Master's Student in Information Systems**  
-  University of Texas at Arlington | Graduating in Fall 2024  
+  University of Texas at Arlington | Graduated in Fall 2024  
   Focus: ERP, Business Intelligence, and Data Analytics  
 
 - 💼 **Work Experience**  
